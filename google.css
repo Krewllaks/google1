@@ -1,0 +1,45 @@
+.logo {
+    margin-top: 200px;
+}
+
+.kutu {
+   width: 1400px;
+   height: 100px;
+   background-color:gainsboro;
+   margin: auto;
+}
+
+.beyaz {
+    width: 400px;
+    height: 20px;
+    background-color: white;
+    margin: 1px;
+    border: 1px groove gray;
+    border-radius: 2px;
+}
+.link-box {
+    margin: 1px;
+}
+.light-box {
+    width: 40%;
+    height: 140px;
+    float: left;
+    padding-top: 5px;
+    background-color: #7EE5DA;
+}
+
+.middle-box {
+    width: 18%;
+    height: 140px;
+    padding-top: 5px;
+    margin: 0 1%;
+    float: left;
+    background-color: #70CCC2;
+}
+.dark-box {
+    width: 40%;
+    height: 140px;
+    float: left;
+    padding-top: 5px;
+    background-color: #62B3AA;
+}
